@@ -8,10 +8,7 @@
   "compatibleCoreVersion": "0.8.9",
   "esmodules": "{{sources}}",
   "system": ["dnd5e"],
-  "languages": [
-    { "lang": "fr", "name": "Français", "path": "lang/fr.json" },
-    { "lang": "en", "name": "English", "path": "lang/en.json" }
-  ],
+  "languages": [{ "lang": "fr", "name": "Français", "path": "lang/fr.json" }],
   "url": "https://domain.com/my/project/{{name}}",
   "license": "https://domain.com/my/project/{{name}}/LICENSE",
   "manifest": "https://domain.com/my/project/{{name}}/bundle/module.json",

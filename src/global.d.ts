@@ -3,3 +3,8 @@ declare namespace ClientSettings {
     "Orizon.enable-wild-magic": boolean;
   }
 }
+
+interface BetterRolssWorkflow {
+  actor: Actor5e;
+  item: Item5e;
+}
