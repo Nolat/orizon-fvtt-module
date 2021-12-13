@@ -1,0 +1,4 @@
+{
+  "setting.EnableWildMagic.name": "Wild Magic",
+  "setting.EnableWildMagic.hint": "If enabled, as soon as a spellcaster uses a slot, they have a chance to have a random wild magic effect."
+}

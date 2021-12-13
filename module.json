@@ -4,11 +4,14 @@
   "description": "{{description}}",
   "version": "{{version}}",
   "author": "Nolat",
-  "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "0.7.9",
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "0.8.9",
   "esmodules": "{{sources}}",
   "system": ["dnd5e"],
-  "languages": [{ "lang": "fr", "name": "Français", "path": "lang/fr.json" }],
+  "languages": [
+    { "lang": "fr", "name": "Français", "path": "lang/fr.json" },
+    { "lang": "en", "name": "English", "path": "lang/en.json" }
+  ],
   "url": "https://domain.com/my/project/{{name}}",
   "license": "https://domain.com/my/project/{{name}}/LICENSE",
   "manifest": "https://domain.com/my/project/{{name}}/bundle/module.json",

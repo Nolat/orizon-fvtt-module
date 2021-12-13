@@ -1,1 +1,4 @@
-{}
+{
+  "setting.EnableWildMagic.name": "Magie Sauvage",
+  "setting.EnableWildMagic.hint": "Si activé, dès qu'un lanceur de sorts utilise un emplacement, il a une chance d'avoir un effet de magie sauvage aléatoire."
+}
