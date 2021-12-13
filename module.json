@@ -1,0 +1,18 @@
+{
+  "name": "{{name}}",
+  "title": "{{title}}",
+  "description": "{{description}}",
+  "version": "{{version}}",
+  "author": "Nolat",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+  "esmodules": "{{sources}}",
+  "system": ["dnd5e"],
+  "languages": [{ "lang": "fr", "name": "Français", "path": "lang/fr.json" }],
+  "url": "https://domain.com/my/project/{{name}}",
+  "license": "https://domain.com/my/project/{{name}}/LICENSE",
+  "manifest": "https://domain.com/my/project/{{name}}/bundle/module.json",
+  "download": "https://domain.com/my/project/{{name}}/bundle/{{name}}.zip",
+  "readme": "https://domain.com/my/project/{{name}}/README.md",
+  "changelog": "https://domain.com/my/project/{{name}}/CHANGELOG.md"
+}
